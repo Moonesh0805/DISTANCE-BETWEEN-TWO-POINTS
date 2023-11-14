@@ -27,7 +27,7 @@ print("{:.2f}".format(distance))
 ```
 
 ### OUTPUT:
-![OUTPUT](/DISTANCE-BETWEEN-TWO-POINTS/distance.png)
+![OUTPUT](/distance.png)
 
 ### RESULT:
 Thus the  DISTANCE-BETWEEN-TWO-POINTS are successfully executed.
